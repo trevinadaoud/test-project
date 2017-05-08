@@ -5,4 +5,3 @@ This is a test project
 - List item1
 - List item2
 - List item3
-- List item4
